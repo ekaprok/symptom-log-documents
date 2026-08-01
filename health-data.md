@@ -6,33 +6,36 @@ This Consumer Health Data Privacy Policy applies to the Symptom Log application.
 
 Symptom Log is designed to be a fully offline application. Your personal health data—including the specific symptoms you log (such as headaches or periods) and factors you track (such as sleep or exercise)—remains locally on your device.
 
-## 1. Categories of Consumer Health Data Collected and Purpose
+## 1. Categories of Consumer Health Data We Collect
 
-Symptom Log does not collect, retain, process, infer, or derive any consumer health data. All health-related information you enter into the app remains exclusively on your local device.
+When you use Symptom Log, the application processes the following categories of consumer health data locally on your device:
 
-While we use third-party tools to ensure the app functions properly (Sentry for crash reporting, EAS Observable for generic app analytics, and RevenueCat for App Store payments), these tools are restricted to collecting basic technical and operational data.
+- **Health Conditions and Symptoms:** Information you manually log regarding your physical or mental health status, including specific symptoms (e.g., headaches), their severity, and occurrences.
+- **Bodily Functions and Measurements:** Information you manually log regarding daily habits that impact your health, such as water intake.
+- **Inferences:** Any trends, charts, or summaries generated locally by the application based on your logged entries.
 
-## 2. Categories of Sources of Consumer Health Data
+### 2. Categories of Sources of Consumer Health Data
 
-Not applicable. We do not collect consumer health data from any source.
+The sole source of consumer health data processed by the application is **you, the user**. All data is manually entered by you directly into the application. We do not collect health data from external APIs, wearable devices, third-party apps, or data brokers.
 
-## 3. Categories of Consumer Health Data That Is Shared
+### 3. Purposes for Collecting and Using Consumer Health Data
 
-Not applicable. Because we do not collect your consumer health data, we do not share any consumer health data.
+Your consumer health data is processed solely for the purpose of providing the service you requested: allowing you to locally log, view, and track your personal health symptoms and trends over time.
 
-## 4. Categories of Third Parties and Affiliates With Whom Data Is Shared
+### 4. Categories of Consumer Health Data Shared
 
-Not applicable. We do not share consumer health data with any third parties or affiliates.
+**None.** Because the application operates entirely offline, we do not transmit, share, sell, or disclose your consumer health data to anyone.
 
-## 5. How to Exercise Your Consumer Health Data Rights
+### 5. Categories of Third Parties and Affiliates With Whom We Share Data
 
-Under the Washington My Health My Data Act (RCW 19.373.040), consumers have specific rights regarding their health data, including:
+**None.** We do not share your consumer health data with any third parties or affiliates. *(Note: We use third-party telemetry tools, such as Expo Observable and Sentry, strictly for anonymized crash reporting and basic app analytics. These tools do not collect your local health data.*
 
-- **Right to Know/Access:** The right to confirm whether a regulated entity is collecting, sharing, or selling your consumer health data and to access that data.
-- **Right to Withdraw Consent:** The right to withdraw consent from the collection and sharing of your consumer health data.
-- **Right to Deletion:** The right to request the deletion of your consumer health data.
-- **Right to Appeal:** The right to appeal a refusal to take action on a rights request. If an appeal is denied, you have the right to submit a complaint to the Washington State Attorney General.
+### 6. How to Exercise Your Privacy Rights
 
-Because Symptom Log does not collect, store, or possess your consumer health data, we do not have any health data to access, delete, or withdraw consent for. There is no user login functionality, and no health data is transmitted to our servers.
+Under applicable state laws, you have the right to access, delete, and withdraw consent regarding your consumer health data.
 
-However, if you have questions about our privacy practices or wish to submit a request regarding your rights, you may contact us at: [symptomlog.support@gmail.com](mailto:symptomlog.support@gmail.com)
+Because Symptom Log does not store your data on external servers, we cannot fulfill standard server-side data subject requests. You maintain total control over your health data locally.
+
+**To exercise your right to delete your consumer health data:** You may permanently delete your data at any time by uninstalling the application from your device. *Please note: Because we do not back up your data, deleting the app or using the wipe function permanently destroys the data and it cannot be recovered.*
+
+If you have questions about this policy, please contact us at: symptomlog.support@gmail.com.
