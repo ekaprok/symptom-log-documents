@@ -2,6 +2,8 @@
 
 **Last updated July 29, 2026**
 
+Notice to US Residents Regarding Consumer Health Data: If you reside in Washington State, Nevada, or other states with specific consumer health privacy laws, please review our separate and distinct [Consumer Health Data Privacy Policy](https://ekaprok.github.io/symptom-log-documents/health-data.html) for detailed information regarding your rights.
+
 This Privacy Notice for Ekaterina Prokopeva ("**we**," "**us**," or "**our**"), describes how and why we might access, collect, store, use, and/or share ("**process**") your personal information when you use our services ("**Services**"), including when you:
 
 - Download and use our mobile application (Symptom Log), or any other application of ours that links to this Privacy Notice
@@ -18,7 +20,7 @@ This Privacy Notice for Ekaterina Prokopeva ("**we**," "**us**," or "**our**"), 
 
 **What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](#personalinfo).
 
-**Do we process any sensitive personal information?** Some of the information may be considered "special" or "sensitive" in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs. We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Learn more about [sensitive information we process](#sensitiveinfo).
+**Do we process any sensitive personal information?** We process sensitive health information (such as symptom logs and water intake). However, all health data is stored strictly locally on your device and is never transmitted to our servers." Some of the information may be considered "special" or "sensitive" in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs. We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Learn more about [sensitive information we process](#sensitiveinfo). 
 
 **Do we collect any information from third parties?** We do not collect any information from third parties.
 
@@ -30,7 +32,7 @@ This Privacy Notice for Ekaterina Prokopeva ("**we**," "**us**," or "**our**"), 
 
 **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#privacyrights).
 
-**How do you exercise your rights?** The easiest way to exercise your rights is by submitting a [data subject access request](https://app.termly.io/dsar/f8937616-5b35-428b-a87d-a5d455148882), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+**How do you exercise your rights?** Because your data is stored offline, you can exercise your right to delete your data by uninstalling the application from your device.
 
 Want to learn more about what we do with any information we collect? [Review the Privacy Notice in full](#toc).
 
@@ -68,9 +70,7 @@ Want to learn more about what we do with any information we collect? [Review the
 
 We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
 
-**Sensitive Information.** When necessary, with your consent or as otherwise permitted by applicable law, we process the following categories of sensitive information:
-
-- health data
+**Sensitive Information.** Symptom Log is an offline-first application. While you may log sensitive health information (such as symptom severity, water intake, and health trends) within the app, we do not transmit, sync, or store your health data on our servers or any external cloud services. All health and symptom data you enter is processed and stored exclusively on your device's local storage.
 
 **Payment Data.** We may collect data necessary to process your payment if you choose to make purchases, such as your payment instrument number, and the security code associated with your payment instrument. All payment data is handled and stored by RevenueCat and Apple. You may find their privacy notice link(s) here: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy) and [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/).
 
@@ -92,7 +92,7 @@ We automatically collect certain information when you visit, use, or navigate th
 
 The information we collect includes:
 
-- *Log and Usage Data.* Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings).
+- *Log and Usage Data.* Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings). To ensure the stability and performance of our Services, we use third-party telemetry tools, specifically Expo Observable (for anonymous usage analytics, such as screen views) and Sentry (for crash reporting). These tools collect basic device data, operating system versions, and sanitized error logs.
 
 - *Device Data.* We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
 
@@ -283,7 +283,6 @@ __________
 
 ## 12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/dsar/f8937616-5b35-428b-a87d-a5d455148882).
+Because Symptom Log operates entirely offline and we do not store your data on external servers, we cannot process standard server-side data deletion requests. You maintain complete control over your data locally. To exercise your right to delete your personal health information, you may uninstall the application from your device, which will permanently delete all associated app data and health logs from your phone.
 
-This Privacy Policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/)
-
+Please note: Because your data is not backed up to our servers, if you delete the app or lose your device, your data is permanently destroyed and cannot be recovered.
