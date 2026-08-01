@@ -12,7 +12,7 @@ We operate the mobile application Symptom Log (the "**App**"), as well as any ot
 
 A mobile application that allows users to locally log health symptoms and view historical trends and averages for purely informational purposes.
 
-You can contact us by email at [symptomlog.support@gmail.com](mailto:symptomlog.support@gmail.com) or by mail to __________, __________, __________.
+You can contact us by email at [symptomlog.support@gmail.com](mailto:symptomlog.support@gmail.com).
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("**you**"), and Ekaterina Prokopeva, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
@@ -24,36 +24,36 @@ We recommend that you print a copy of these Legal Terms for your records.
 
 ## TABLE OF CONTENTS
 
-[1. OUR SERVICES](#services)
-[2. INTELLECTUAL PROPERTY RIGHTS](#ip)
-[3. USER REPRESENTATIONS](#userreps)
-[4. PRODUCTS](#products)
-[5. PURCHASES AND PAYMENT](#purchases)
-[6. SUBSCRIPTIONS](#subscriptions)
-[7. REFUNDS POLICY](#returnno)
-[8. SOFTWARE](#software)
-[9. PROHIBITED ACTIVITIES](#prohibited)
-[10. USER GENERATED CONTRIBUTIONS](#ugc)
-[11. CONTRIBUTION LICENSE](#license)
-[12. MOBILE APPLICATION LICENSE](#mobile)
-[13. SERVICES MANAGEMENT](#sitemanage)
-[14. PRIVACY POLICY](#ppyes)
-[15. TERM AND TERMINATION](#terms)
-[16. MODIFICATIONS AND INTERRUPTIONS](#modifications)
-[17. GOVERNING LAW](#law)
-[18. DISPUTE RESOLUTION](#disputes)
-[19. CORRECTIONS](#corrections)
-[20. DISCLAIMER](#disclaimer)
-[21. LIMITATIONS OF LIABILITY](#liability)
-[22. INDEMNIFICATION](#indemnification)
-[23. USER DATA](#userdata)
-[24. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES](#electronic)
-[25. CALIFORNIA USERS AND RESIDENTS](#california)
-[26. MISCELLANEOUS](#misc)
-[27. MEDICAL DISCLAIMER](#addclause)
-[28. LOCAL STORAGE AND DATA LOSS (NO BACKUPS)](#addclauseb)
-[29. LIMITATION OF LIABILITY](#addclausec)
-[30. CONTACT US](#contact)
+- [1. OUR SERVICES](#services)
+- [2. INTELLECTUAL PROPERTY RIGHTS](#ip)
+- [3. USER REPRESENTATIONS](#userreps)
+- [4. PRODUCTS](#products)
+- [5. PURCHASES AND PAYMENT](#purchases)
+- [6. SUBSCRIPTIONS](#subscriptions)
+- [7. REFUNDS POLICY](#returnno)
+- [8. SOFTWARE](#software)
+- [9. PROHIBITED ACTIVITIES](#prohibited)
+- [10. USER GENERATED CONTRIBUTIONS](#ugc)
+- [11. CONTRIBUTION LICENSE](#license)
+- [12. MOBILE APPLICATION LICENSE](#mobile)
+- [13. SERVICES MANAGEMENT](#sitemanage)
+- [14. PRIVACY POLICY](#ppyes)
+- [15. TERM AND TERMINATION](#terms)
+- [16. MODIFICATIONS AND INTERRUPTIONS](#modifications)
+- [17. GOVERNING LAW](#law)
+- [18. DISPUTE RESOLUTION](#disputes)
+- [19. CORRECTIONS](#corrections)
+- [20. DISCLAIMER](#disclaimer)
+- [21. LIMITATIONS OF LIABILITY](#liability)
+- [22. INDEMNIFICATION](#indemnification)
+- [23. USER DATA](#userdata)
+- [24. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES](#electronic)
+- [25. CALIFORNIA USERS AND RESIDENTS](#california)
+- [26. MISCELLANEOUS](#misc)
+- [27. MEDICAL DISCLAIMER](#addclause)
+- [28. LOCAL STORAGE AND DATA LOSS (NO BACKUPS)](#addclauseb)
+- [29. LIMITATION OF LIABILITY](#addclausec)
+- [30. CONTACT US](#contact)
 
 <a id="services"></a>
 
@@ -330,6 +330,8 @@ You agree to defend, indemnify, and hold us harmless, including our subsidiaries
 ## 23. USER DATA
 
 We will maintain certain data that you transmit to the Services for the purpose of managing the performance of the Services, as well as data relating to your use of the Services. Although we perform regular routine backups of data, you are solely responsible for all data that you transmit or that relates to any activity you have undertaken using the Services. You agree that we shall have no liability to you for any loss or corruption of any such data, and you hereby waive any right of action against us arising from any such loss or corruption of such data.
+
+All health and symptom data logged within the App is stored locally on your device and is never transmitted to our servers. However, to maintain and improve the App, we use third-party services (such as Sentry and Expo) to collect anonymized crash reports and basic usage analytics (e.g., which screens are visited). This telemetry data is sanitized and contains no personal health information.
 
 <a id="electronic"></a>
 

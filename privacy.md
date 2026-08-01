@@ -286,3 +286,5 @@ __________
 Because Symptom Log operates entirely offline and we do not store your data on external servers, we cannot process standard server-side data deletion requests. You maintain complete control over your data locally. To exercise your right to delete your personal health information, you may uninstall the application from your device, which will permanently delete all associated app data and health logs from your phone.
 
 Please note: Because your data is not backed up to our servers, if you delete the app or lose your device, your data is permanently destroyed and cannot be recovered.
+
+This Terms and Conditions was created using Termly's [Terms and Conditions Generator](https://termly.io/products/terms-and-conditions-generator/)
