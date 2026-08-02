@@ -28,7 +28,7 @@ Your consumer health data is processed solely for the purpose of providing the s
 
 ### 5. Categories of Third Parties and Affiliates With Whom We Share Data
 
-**None.** We do not share your consumer health data with any third parties or affiliates. *(Note: We use third-party telemetry tools, such as Expo Observable and Sentry, strictly for anonymized crash reporting and basic app analytics. These tools do not collect your local health data.*
+**None.** We do not share your consumer health data with any third parties or affiliates. *(Note: We use third-party telemetry tools, such as Expo Observable and Sentry, strictly for anonymized crash reporting and basic app analytics. These tools do not collect your local health data.)*
 
 ### 6. How to Exercise Your Privacy Rights
 
