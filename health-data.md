@@ -2,7 +2,7 @@
 
 **Effective Date:** 07/29/2026
 
-This Consumer Health Data Privacy Policy applies to the Symptom Log application. We are providing this notice in compliance with the Washington My Health My Data Act (RCW 19.373).
+This Consumer Health Data Privacy Policy applies to the Symptom Log application.
 
 Symptom Log is designed to be a fully offline application. Your personal health data—including the specific symptoms you log (such as headaches or periods) and factors you track (such as sleep or exercise)—remains locally on your device.
 
@@ -36,6 +36,12 @@ Under applicable state laws, you have the right to access, delete, and withdraw 
 
 Because Symptom Log does not store your data on external servers, we cannot fulfill standard server-side data subject requests. You maintain total control over your health data locally.
 
+**To access your data:** You can view all logged consumer health data directly within the Symptom Log application at any time.
+
+**To withdraw consent:** Because data collection relies on your manual entry, you may withdraw consent for future collection by simply choosing not to log further data.
+
 **To exercise your right to delete your consumer health data:** You may permanently delete your data at any time by uninstalling the application from your device. *Please note: Because we do not back up your data, deleting the app or using the wipe function permanently destroys the data and it cannot be recovered.*
+
+If you contact us to exercise a privacy right and we are unable to fulfill your request (for example, because we cannot access your locally stored data), you may appeal our response by replying to our support email symptomlog.support@gmail.com. If your appeal is unsuccessful, you have the right to raise a concern or lodge a complaint with the Washington State Attorney General at www.atg.wa.gov/file-complaint, the Nevada State Attorney General at https://ag.nv.gov/complaints/file_complaint/, or other regulatory authority as applicable.
 
 If you have questions about this policy, please contact us at: symptomlog.support@gmail.com.
