@@ -1,4 +1,4 @@
-# Support for [App Name]
+# Support for Symptom Log
 
 We're here to help you get the most out of Symptom Log App. If you are experiencing issues or have feedback, please check the FAQ below or reach out to us directly.
 
