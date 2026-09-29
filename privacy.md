@@ -1,6 +1,6 @@
 # PRIVACY POLICY
 
-**Last updated July 29, 2026**
+**Last updated September 29, 2026**
 
 Notice to US Residents Regarding Consumer Health Data: If you reside in Washington State, Nevada, or other states with specific consumer health privacy laws, please review our separate and distinct [Consumer Health Data Privacy Policy](https://ekaprok.github.io/symptom-log-documents/health-data.html) for detailed information regarding your rights.
 
@@ -54,13 +54,11 @@ Want to learn more about what we do with any information we collect? [Review the
 
 [8. CONTROLS FOR DO-NOT-TRACK FEATURES](#DNT)
 
-[9. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#uslaws)
+[9. DO WE MAKE UPDATES TO THIS NOTICE?](#policyupdates)
 
-[10. DO WE MAKE UPDATES TO THIS NOTICE?](#policyupdates)
+[10. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)
 
-[11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)
-
-[12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#request)
+[11. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#request)
 
 ## 1. WHAT INFORMATION DO WE COLLECT?
 
@@ -72,11 +70,11 @@ We collect personal information that you voluntarily provide to us when you expr
 
 **Sensitive Information.** Symptom Log is an offline-first application. While you may log sensitive health information (such as symptom severity, water intake, and health trends) within the app, we do not transmit, sync, or store your health data on our servers or any external cloud services. All health and symptom data you enter is processed and stored exclusively on your device's local storage.
 
-**Payment Data.** We may collect data necessary to process your payment if you choose to make purchases, such as your payment instrument number, and the security code associated with your payment instrument. All payment data is handled and stored by RevenueCat and Apple. You may find their privacy notice link(s) here: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy) and [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/).
+**Payment Data.** If you choose to make purchases, your payment is processed and managed by third-party services. We do not directly collect or store your payment instrument number or the security code associated with your payment instrument. All payment data is handled and stored by RevenueCat and Apple. You may find their privacy notice link(s) here: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy) and [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/).
 
-**Application Data.** If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
+**Application Data.** If you use our application, we may collect the following if you choose to grant us permission:
 
-- *Mobile Device Data.* We automatically collect device information (such as your mobile device ID, model, and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our application(s), we may also collect information about the phone network associated with your mobile device, your mobile device’s operating system or platform, the type of mobile device you use, your mobile device’s unique device ID, and information about the features of our application(s) you accessed.
+- *Mobile Device Data.* If you contact our support team from within the app, you may voluntarily disclose device information (such as your mobile device ID, model, and manufacturer), operating system, version information, and basic application logs. This helps us troubleshoot and fix bugs.
 
 - *Push Notifications.* We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
 
@@ -92,11 +90,8 @@ We automatically collect certain information when you visit, use, or navigate th
 
 The information we collect includes:
 
-- *Log and Usage Data.* Log and usage data is service-related, diagnostic, usage, and performance information collected when you access or use our Services. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings). To ensure the stability and performance of our Services, we use third-party telemetry tools, specifically Expo Observable (for anonymous usage analytics, such as screen views) and Sentry (for crash reporting). These tools collect basic device data, operating system versions, and sanitized error logs. We intentionally limit the data sent to these third-party telemetry tools. We never send, log, or transmit any of your health data, symptom entries, or personal information to Sentry or Expo Observable.
-
-- *Device Data.* We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
-
-- *Location Data.* We collect location data such as information about your device's location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the Services. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. However, if you choose to opt out, you may not be able to use certain aspects of the Services.
+- *Log, Usage, and Device Data.* We automatically collect service-related, diagnostic, usage, and performance information when you access or use our Services. Depending on the device used, this may include your IP address, device and application identification numbers, hardware model, operating system, and information about your activity (such as pages viewed, features used, and date/time stamps). To ensure the stability and performance of our Services, we use third-party telemetry tools, specifically Expo Observe (for anonymous usage analytics, such as screen views) and Sentry (for crash reporting, which may include sanitized error logs and system activity). We intentionally limit the data sent to these third-party telemetry tools. We never send, log, or transmit any of your health data, symptom entries, or personal information to Sentry or Expo Observe.
+- *Location Data.* We may collect imprecise location data (such as country or region) inferred automatically from your device's IP address during crash reporting or analytics logging. We do not request or collect precise GPS location.
 
 ## 2. HOW DO WE PROCESS YOUR INFORMATION?
 
@@ -164,125 +159,20 @@ Most web browsers and some mobile operating systems and mobile applications incl
 
 California law requires us to let you know how we respond to web browser DNT signals. Because there currently is not an industry or legal standard for recognizing or honoring DNT signals, we do not respond to them at this time.
 
-## 9. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
-
-***In Short:** *If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below.*
-
-### Categories of Personal Information We Collect
-
-The table below shows the categories of personal information we have collected in the past twelve (12) months. The table includes illustrative examples of each category and does not reflect the personal information we collect from you. For a comprehensive inventory of all personal information we process, please refer to the section "[WHAT INFORMATION DO WE COLLECT?](#infocollect)"
-
-| **Category** | **Examples** | **Collected** |
-| --- | --- | --- |
-| A. Identifiers | Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name | NO |
-| B. Personal information as defined in the California Customer Records statute | Name, contact information, education, employment, employment history, and financial information | NO |
-| C. Protected classification characteristics under state or federal law | Gender, age, date of birth, race and ethnicity, national origin, marital status, and other demographic data | NO |
-| D. Commercial information | Transaction information, purchase history, financial details, and payment information | NO |
-| E. Biometric information | Fingerprints and voiceprints | NO |
-| F. Internet or other similar network activity | Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements | NO |
-| G. Geolocation data | Device location | NO |
-| H. Audio, electronic, sensory, or similar information | Images and audio, video or call recordings created in connection with our business activities | NO |
-| I. Professional or employment-related information | Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us | NO |
-| J. Education Information | Student records and directory information | NO |
-| K. Inferences drawn from collected personal information | Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics | NO |
-| L. Sensitive personal Information |  | NO |
-
-We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
-
-- Receiving help through our customer support channels;
-
-- Participation in customer surveys or contests; and
-
-- Facilitation in the delivery of our Services and to respond to your inquiries.
-
-### Sources of Personal Information
-
-Learn more about the sources of personal information we collect in "[WHAT INFORMATION DO WE COLLECT?](#infocollect)"
-
-### How We Use and Share Personal Information
-
-Learn more about how we use your personal information in the section, "[HOW DO WE PROCESS YOUR INFORMATION?](#infouse)"
-
-**Will your information be shared with anyone else?**
-
-We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "[WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare)"
-
-We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
-
-We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
-
-### Your Rights
-
-You have rights under certain US state data protection laws. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. These rights include:
-
-- **Right to know** whether or not we are processing your personal data
-
-- **Right to access** your personal data
-
-- **Right to correct** inaccuracies in your personal data
-
-- **Right to request** the deletion of your personal data
-
-- **Right to obtain a copy** of the personal data you previously shared with us
-
-- **Right to non-discrimination** for exercising your rights
-
-- **Right to opt out** of the processing of your personal data if it is used for targeted advertising (or sharing as defined under California’s privacy law), the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
-
-Depending upon the state where you live, you may also have the following rights:
-
-- Right to access the categories of personal data being processed (as permitted by applicable law, including the privacy law in Minnesota)
-
-- Right to obtain a list of the categories of third parties to which we have disclosed personal data (as permitted by applicable law, including the privacy law in California, Delaware, and Maryland)
-
-- Right to obtain a list of specific third parties to which we have disclosed personal data (as permitted by applicable law, including the privacy law in Minnesota and Oregon)
-
-- Right to obtain a list of third parties to which we have sold personal data (as permitted by applicable law, including the privacy law in Connecticut)
-
-- Right to review, understand, question, and depending on where you live, correct how personal data has been profiled (as permitted by applicable law, including the privacy law in Connecticut and Minnesota)
-
-- Right to limit use and disclosure of sensitive personal data (as permitted by applicable law, including the privacy law in California)
-
-- Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition feature (as permitted by applicable law, including the privacy law in Florida)
-
-### How to Exercise Your Rights
-
-To exercise these rights, you can contact us by submitting a [data subject access request](https://app.termly.io/dsar/f8937616-5b35-428b-a87d-a5d455148882), by emailing us at [symptomlog.support@gmail.com](mailto:symptomlog.support@gmail.com), or by referring to the contact details at the bottom of this document.
-
-Under certain US state data protection laws, you can designate an authorized agent to make a request on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with applicable laws.
-
-### Request Verification
-
-Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. We will only use personal information provided in your request to verify your identity or authority to make the request. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes.
-
-If you submit the request through an authorized agent, we may need to collect additional information to verify your identity before processing your request and the agent will need to provide a written and signed permission from you to submit such request on your behalf.
-
-### Appeals
-
-Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at [symptomlog.support@gmail.com](mailto:symptomlog.support@gmail.com). We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
-
-### California "Shine The Light" Law
-
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)"
-
-## 10. DO WE MAKE UPDATES TO THIS NOTICE?
+## 9. DO WE MAKE UPDATES TO THIS NOTICE?
 
 ***In Short:** Yes, we will update this notice as necessary to stay compliant with relevant laws.*
 
 We may update this Privacy Notice from time to time. The updated version will be indicated by an updated "Revised" date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information.
 
-## 11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+## 10. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at [symptomlog.support@gmail.com](mailto:symptomlog.support@gmail.com) or contact us by post at:
+If you have questions or comments about this notice, you may email us at [symptomlog.support@gmail.com](mailto:symptomlog.support@gmail.com).
 
-Ekaterina Prokopeva
-
-__________
-
-## 12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+## 11. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 Because Symptom Log operates entirely offline and we do not store your data on external servers, we cannot process standard server-side data deletion requests. You maintain complete control over your data locally. To exercise your right to delete your personal health information, you may uninstall the application from your device, which will permanently delete all associated app data and health logs from your phone.
 
 Please note: Because your data is not backed up to our servers, if you delete the app or lose your device, your data is permanently destroyed and cannot be recovered.
 
-This Terms and Conditions was created using Termly's [Terms and Conditions Generator](https://termly.io/products/terms-and-conditions-generator/)
+This Privacy Policy was created using Termly's [Terms and Conditions Generator](https://termly.io/products/terms-and-conditions-generator/)
