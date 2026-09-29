@@ -146,7 +146,7 @@ We have implemented appropriate and reasonable technical and organizational secu
 
 ***In Short:** *We do not knowingly collect data from or market to children under 18 years of age.*
 
-We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at [symptomlog.support@gmail.com](mailto:symptomlog.support@gmail.com).
+We do not knowingly collect personal information from children under 18, or the equivalent minimum age in the relevant jurisdiction. Because Symptom Log operates entirely offline, all user data is stored locally on the device and we do not have remote access to it. If a parent or guardian becomes aware that their child has used the application and wishes to remove the locally stored data, they may do so by uninstalling the application from the child's device. Parents or guardians with questions can contact us at [symptomlog.support@gmail.com](mailto:symptomlog.support@gmail.com).
 
 ## 7. WHAT ARE YOUR PRIVACY RIGHTS?
 
@@ -276,8 +276,6 @@ We may update this Privacy Notice from time to time. The updated version will be
 If you have questions or comments about this notice, you may email us at [symptomlog.support@gmail.com](mailto:symptomlog.support@gmail.com) or contact us by post at:
 
 Ekaterina Prokopeva
-
-110 river dirve
 
 __________
 
